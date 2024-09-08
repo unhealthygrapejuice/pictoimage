@@ -20,3 +20,7 @@ the image.
 If you don't, the cursor will click aimlessly until you stop the program or press the
 "f" key. 
 
+## Custom Image
+Simply replace "in.png" with any other image you want. Make sure its renamed to "in.png",
+otherwise it won't work.
+
